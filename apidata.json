@@ -1,0 +1,62 @@
+{
+  "data": {
+    "ads_status": "off",
+    "ads_second": 21,
+    "aa_ads_click": "20",
+    "aa_ads_default_native": "false",
+    "aa_ads_native_on_off": "true",
+    "aa_ads_banner_on_off": "true",
+    "aa_is_twist": "false",
+    "aa_is_back_count": "false",
+    "aa_ads_nativecolor": "",
+    "aa_is_rating": "false",
+    "aa_is_splash_inter": "false",
+    "is_rectbanner": "false",
+    "ads_type": "google",
+    "aa_privacy_policy": "https://magicstudiotach.blogspot.com/2023/02/privacy-policy.html",
+    "ads_appopen": "/6499/example/app-open",
+    "ads_banner": "/6499/example/banner",
+    "ads_inter": "/6499/example/interstitial",
+    "ads_native": "/6499/example/native",
+    "fb_banner": "582097990409409_583761763576365",
+    "fb_native": "582097990409409_583762496909625",
+    "fb_inter": "582097990409409_583762266909648",
+    "applovin_banner": "2b52cebad9b8696d",
+    "applovin_native": "787b1aa2cb2f46ba",
+    "applovin_native_small": "584f48a7181d437f",
+    "applovin_inter": "84e6e7d470e7e3ef",
+    "applovin_open": "1ada3b3a358664da",
+    "home_screen_native": "false",
+    "add_device_screen_native": "false",
+    "dvr_type_screen_native": "true",
+    "server_screen_native": "false",
+    "video_type_screen_native": "false",
+    "camara_type_screen_native": "false",
+    "ip_monitor_screen_native": "false",
+    "camara_manual_screen_native": "false",
+    "recent_screen_banner": "false",
+    "home_screen_content": "Wifi smart camera app provides information about camera setup in mobile,phones,tablets,Tvs and Tv boxes with Android devices. Watch the live view from your network IP cameras comfortably on the big TV screen, on your phone or tablet. Playback video recordings and receive events from your cameras or NVR. The application works with most IP cameras, your WiFi cam or the entire home security cctv system, works very well with Hikkvision and Dahuva camera devices. Designed for home and professional use.",
+    "main_list": [
+      {
+        "id": "1",
+        "tool_name": "WiFi Camera",
+        "is_show": "true"
+      },
+      {
+        "id": "2",
+        "tool_name": "Manual Camera",
+        "is_show": "false"
+      },
+      {
+        "id": "3",
+        "tool_name": "IP Monitor",
+        "is_show": "true"
+      },
+      {
+        "id": "4",
+        "tool_name": "Camara Preview",
+        "is_show": "false"
+      }
+    ]
+  }
+}
