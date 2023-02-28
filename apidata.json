@@ -1,10 +1,10 @@
 {
   "data": {
-    "ads_status": "on",
+    "ads_status": "off",
     "ads_second": 21,
     "aa_ads_click": "20",
     "aa_ads_default_native": "false",
-    "aa_ads_native_on_off": "true",
+    "aa_ads_native_on_off": "off",
     "aa_ads_banner_on_off": "true",
     "aa_is_twist": "false",
     "aa_is_back_count": "false",
@@ -26,7 +26,7 @@
     "applovin_native_small": "584f48a7181d437f",
     "applovin_inter": "84e6e7d470e7e3ef",
     "applovin_open": "1ada3b3a358664da",
-    "home_screen_native": "true",
+    "home_screen_native": "off",
     "add_device_screen_native": "false",
     "dvr_type_screen_native": "true",
     "server_screen_native": "false",
