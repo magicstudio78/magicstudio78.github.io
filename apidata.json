@@ -1,6 +1,6 @@
 {
   "data": {
-    "ads_status": "off",
+    "ads_status": "true",
     "ads_second": 21,
     "aa_ads_click": "20",
     "aa_ads_default_native": "false",
@@ -12,7 +12,7 @@
     "aa_is_rating": "false",
     "aa_is_splash_inter": "false",
     "is_rectbanner": "false",
-    "ads_type": "google",
+    "ads_type": "facebook",
     "aa_privacy_policy": "https://magicstudiotach.blogspot.com/2023/02/privacy-policy.html",
     "ads_appopen": "/6499/example/app-open",
     "ads_banner": "/6499/example/banner",
@@ -20,7 +20,7 @@
     "ads_native": "/6499/example/native",
     "fb_banner": "582097990409409_583761763576365",
     "fb_native": "582097990409409_583762496909625",
-    "fb_inter": "582097990409409_583762266909648",
+    "fb_inter": "854334652284779_898935191158058",
     "applovin_banner": "2b52cebad9b8696d",
     "applovin_native": "787b1aa2cb2f46ba",
     "applovin_native_small": "584f48a7181d437f",
