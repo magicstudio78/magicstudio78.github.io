@@ -43,7 +43,7 @@
       {
         "id": "1",
         "tool_name": "WiFi Camera",
-        "is_show": "true"
+        "is_show": "false"
       },
       {
         "id": "2",
