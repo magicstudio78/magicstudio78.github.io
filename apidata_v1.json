@@ -2,7 +2,7 @@
   "data": {
     "ads_status": "off",
     "ads_second": 21,
-    "aa_ads_click": "5",
+    "aa_ads_click": "4",
     "aa_ads_default_native": "false",
     "aa_ads_native_on_off": "true",
     "aa_ads_banner_on_off": "true",
@@ -12,15 +12,15 @@
     "aa_is_rating": "false",
     "aa_is_splash_inter": "false",
     "is_rectbanner": "false",
-    "ads_type_banner": "facebook",
-    "ads_type_inter": "facebook",
-    "ads_type_native": "facebook",
-    "ads_type_open": "applovin",
+    "ads_type_banner": "google",
+    "ads_type_inter": "google",
+    "ads_type_native": "google",
+    "ads_type_open": "google",
     "aa_privacy_policy": "https://magicstudiotach.blogspot.com/2023/02/privacy-policy.html",
-    "ads_appopen": "/6499/example/app-open",
-    "ads_banner": "/6499/example/banner",
-    "ads_inter": "/6499/example/interstitial",
-    "ads_native": "/6499/example/native",
+    "ads_appopen": "/21753324030,22891188887/com.wifi.ipcamera.app.master_AppOpen",
+    "ads_banner": "/21753324030,22891188887/com.wifi.ipcamera.app.master_Banner",
+    "ads_inter": "/21753324030,22891188887/com.wifi.ipcamera.app.master_Interstitial",
+    "ads_native": "/21753324030,22891188887/com.wifi.ipcamera.app.master_Native",
     "fb_banner": "854334652284779_898939217824322",
     "fb_native": "854334652284779_898939604490950",
     "fb_inter": "854334652284779_898935191158058",
@@ -32,9 +32,9 @@
     "home_screen_native": "true",
     "add_device_screen_native": "false",
     "dvr_type_screen_native": "true",
-    "server_screen_native": "true",
+    "server_screen_native": "false",
     "video_type_screen_native": "false",
-    "camara_type_screen_native": "true",
+    "camara_type_screen_native": "false",
     "ip_monitor_screen_native": "false",
     "camara_manual_screen_native": "false",
     "recent_screen_banner": "true",
@@ -43,12 +43,12 @@
       {
         "id": "1",
         "tool_name": "WiFi Camera",
-        "is_show": "false"
+        "is_show": "true"
       },
       {
         "id": "2",
         "tool_name": "Manual Camera",
-        "is_show": "false"
+        "is_show": "true"
       },
       {
         "id": "3",
@@ -58,7 +58,7 @@
       {
         "id": "4",
         "tool_name": "Camara Preview",
-        "is_show": "false"
+        "is_show": "true"
       }
     ]
   }
