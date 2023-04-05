@@ -37,7 +37,7 @@
     "camara_type_screen_native": "false",
     "ip_monitor_screen_native": "true",
     "camara_manual_screen_native": "false",
-    "recent_screen_banner": "true",
+    "recent_screen_banner": "false",
     "home_screen_content": "Wifi smart camera app provides information about camera setup in mobile,phones,tablets,Tvs and Tv boxes with Android devices. Watch the live view from your network IP cameras comfortably on the big TV screen, on your phone or tablet. Playback video recordings and receive events from your cameras or NVR. The application works with most IP cameras, your WiFi cam or the entire home security cctv system, works very well with Hikkvision and Dahuva camera devices. Designed for home and professional use.",
     "main_list": [
       {
