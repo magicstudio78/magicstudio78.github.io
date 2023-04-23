@@ -1,0 +1,65 @@
+{
+  "data": {
+    "ads_status": "off",
+    "ads_second": 21,
+    "aa_ads_click": "8",
+    "aa_ads_default_native": "false",
+    "aa_ads_native_on_off": "true",
+    "aa_ads_banner_on_off": "true",
+    "aa_is_twist": "false",
+    "aa_is_back_count": "false",
+    "aa_ads_nativecolor": "",
+    "aa_is_rating": "false",
+    "aa_is_splash_inter": "false",
+    "is_rectbanner": "false",
+    "ads_type_banner": "google",
+    "ads_type_inter": "google",
+    "ads_type_native": "google",
+    "ads_type_open": "google",
+    "aa_privacy_policy": "https://magicstudiotach.blogspot.com/2023/02/privacy-policy.html",
+    "ads_appopen": "ca-app-pub-3940256099942544/3419835294",
+    "ads_banner": "ca-app-pub-3940256099942544/6300978111",
+    "ads_inter": "ca-app-pub-3940256099942544/1033173712",
+    "ads_native": "ca-app-pub-3940256099942544/2247696110",
+    "fb_banner": "854334652284779_898939217824322",
+    "fb_native": "854334652284779_898939604490950",
+    "fb_inter": "854334652284779_898935191158058",
+    "applovin_banner": "414b7e106d9d3a25",
+    "applovin_native": "3bc9b106a4c94691",
+    "applovin_native_small": "3aa129e8c8b2f093",
+    "applovin_inter": "c32faf5261217123",
+    "applovin_open": "09afa077256d62fb",
+    "home_screen_native": "true",
+    "add_device_screen_native": "true",
+    "dvr_type_screen_native": "true",
+    "server_screen_native": "true",
+    "video_type_screen_native": "true",
+    "camara_type_screen_native": "true",
+    "ip_monitor_screen_native": "true",
+    "camara_manual_screen_native": "true",
+    "recent_screen_banner": "true",
+    "home_screen_content": "Wifi smart camera app provides information about camera setup in mobile,phones,tablets,Tvs and Tv boxes with Android devices. Watch the live view from your network IP cameras comfortably on the big TV screen, on your phone or tablet. Playback video recordings and receive events from your cameras or NVR. The application works with most IP cameras, your WiFi cam or the entire home security cctv system, works very well with Hikkvision and Dahuva camera devices. Designed for home and professional use.",
+    "main_list": [
+      {
+        "id": "1",
+        "tool_name": "WiFi Camera",
+        "is_show": "true"
+      },
+      {
+        "id": "2",
+        "tool_name": "Manual Camera",
+        "is_show": "true"
+      },
+      {
+        "id": "3",
+        "tool_name": "IP Monitor",
+        "is_show": "true"
+      },
+      {
+        "id": "4",
+        "tool_name": "Camara Preview",
+        "is_show": "true"
+      }
+    ]
+  }
+}
